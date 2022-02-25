@@ -1,0 +1,31 @@
+{
+  "name": "homework03-belaburrito",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework03-belaburrito.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework03-belaburrito/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework03-belaburrito#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-plugin-mocha": "^10.0.3",
+    "mocha-sinon": "^2.1.2",
+    "sinon": "^13.0.1"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
